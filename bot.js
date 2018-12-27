@@ -26,7 +26,7 @@ client.on('ready', () => {
 client.user.setGame(`#bc | osama tech`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
-const client = new Discord.Client();
+
 var adminprefix = '&'
 const developers = ['465929376085573634','522045992543977484'] //الاي دى حقك
 client.on('message', message => {
